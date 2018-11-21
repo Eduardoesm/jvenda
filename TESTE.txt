@@ -1,0 +1,10 @@
+<!doctype>
+<html lang = "pt-br">
+	<head>
+	<title>Cadastro de Clientes</title>
+	</head>
+<body>
+	<h1>bEM VINDO AO PROJETO<h1>
+
+</body>
+<html>
