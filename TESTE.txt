@@ -5,6 +5,12 @@
 	</head>
 <body>
 	<h1>bEM VINDO AO PROJETO<h1>
+<div id = "container">
+<form>
+	<div class = "form-group">
+		<label>NOME</label>
+		<input type = text>
+</form>
 
 </body>
 <html>
